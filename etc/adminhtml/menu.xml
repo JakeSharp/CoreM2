@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+        
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend/etc/menu.xsd">
+    <menu>
+        <add id="JakeSharp_Core::admin" title="Jake Sharp" module="JakeSharp_Core" sortOrder="100" resource="JakeSharp_Core::admin" />
+    </menu>
+</config>

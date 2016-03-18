@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+        
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config/etc/system.xsd">
+    <system>
+        <tab id="jakesharp" translate="label" sortOrder="1000">
+            <label>Jake Sharp</label>
+        </tab>
+    </system>
+    
+</config>
